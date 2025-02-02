@@ -11,7 +11,7 @@ pip install torch
 
 2. Save the code as `attention.py` and run:
 ```python
-python attention.py
+python attention_with_gradient_v4-explained.py
 ```
 
 ## Code Structure
@@ -121,6 +121,6 @@ MIT License
   title = {Attention Mechanism Implementation},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/aekanun2020/attention-demo}
+  url = {https://github.com/aekanun2020/Self-Attention}
 }
 ```
